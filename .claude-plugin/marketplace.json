@@ -1,0 +1,51 @@
+{
+  "name": "wd-marketplace",
+  "owner": {
+    "name": "Para-FR",
+    "email": "contact@godev-studio.com"
+  },
+  "description": "Official marketplace for Web Development plugins - React, Next.js, Vue, TypeScript and more",
+  "plugins": [
+    {
+      "name": "wd",
+      "source": "./",
+      "description": "Web development framework with 17 specialized commands, 5 expert agents, and MCP server integration for React, Next.js, Vue, and more",
+      "version": "1.0.0",
+      "author": {
+        "name": "GoDev Studio",
+        "email": "contact@godev-studio.com"
+      },
+      "homepage": "https://github.com/Para-FR/wd-framework",
+      "repository": "https://github.com/Para-FR/wd-framework",
+      "license": "MIT",
+      "keywords": ["webdev", "web-development", "react", "nextjs", "vue", "typescript", "frontend", "backend"],
+      "category": "Web Development",
+      "commands": [
+        "./commands/analyze.md",
+        "./commands/implement.md",
+        "./commands/build.md",
+        "./commands/improve.md",
+        "./commands/test.md",
+        "./commands/document.md",
+        "./commands/troubleshoot.md",
+        "./commands/cleanup.md",
+        "./commands/design.md",
+        "./commands/estimate.md",
+        "./commands/explain.md",
+        "./commands/git.md",
+        "./commands/index.md",
+        "./commands/load.md",
+        "./commands/spawn.md",
+        "./commands/task.md",
+        "./commands/workflow.md"
+      ],
+      "agents": [
+        "./agents/frontend.md",
+        "./agents/backend.md",
+        "./agents/security.md",
+        "./agents/test.md",
+        "./agents/docs.md"
+      ]
+    }
+  ]
+}

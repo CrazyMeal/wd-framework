@@ -1,0 +1,25 @@
+{
+  "name": "wd",
+  "version": "1.0.0",
+  "description": "Web development framework with 17 specialized commands, 5 expert agents, and MCP server integration for React, Next.js, Vue, and more",
+  "author": {
+    "name": "GoDev Studio",
+    "email": "contact@godev-studio.com",
+    "url": "https://godev-studio.com"
+  },
+  "homepage": "https://github.com/Para-FR/wd-framework",
+  "repository": "https://github.com/Para-FR/wd-framework",
+  "license": "MIT",
+  "keywords": [
+    "webdev",
+    "web-development",
+    "react",
+    "nextjs",
+    "vue",
+    "typescript",
+    "frontend",
+    "backend",
+    "fullstack",
+    "claude-code"
+  ]
+}
