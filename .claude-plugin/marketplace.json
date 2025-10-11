@@ -2,7 +2,7 @@
   "name": "wd-marketplace",
   "owner": {
     "name": "Para-FR",
-    "email": "contact@godev-studio.com"
+    "email": "contact@cc-france.org"
   },
   "description": "Official marketplace for Web Development plugins - React, Next.js, Vue, TypeScript and more",
   "plugins": [
@@ -10,10 +10,10 @@
       "name": "wd",
       "source": "./",
       "description": "Web development framework with 17 specialized commands, 5 expert agents, and MCP server integration for React, Next.js, Vue, and more",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
-        "name": "GoDev Studio",
-        "email": "contact@godev-studio.com"
+        "name": "Para CC-France",
+        "email": "contact@cc-france.org"
       },
       "homepage": "https://github.com/Para-FR/wd-framework",
       "repository": "https://github.com/Para-FR/wd-framework",
