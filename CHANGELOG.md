@@ -5,6 +5,21 @@ All notable changes to the WD Framework will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.1] - 2025-10-12
+
+### Added
+- **COMMANDS.md** - Complete command reference file (262 lines)
+  - Documents all 22 specialized commands with full specifications
+  - Auto-persona activation patterns for each command
+  - MCP server integration details
+  - Tool orchestration specifications
+  - Wave system integration documentation
+  - Command execution matrix with performance profiles
+
+### Fixed
+- Added missing COMMANDS.md reference file to `.claude/` directory
+- Completed orchestration system with all 10 required core files
+
 ## [2.0.0] - 2025-10-12
 
 ### Added - MAJOR RELEASE: Intelligent Orchestration System
