@@ -9,8 +9,8 @@
     {
       "name": "wd",
       "source": "./",
-      "description": "Web development framework with 17 specialized commands, 5 expert agents, and MCP server integration for React, Next.js, Vue, and more",
-      "version": "1.0.1",
+      "description": "Web development framework with 22 specialized commands, 5 expert agents, and MCP server integration for React, Next.js, Vue, and more",
+      "version": "1.1.0",
       "author": {
         "name": "Para CC-France",
         "email": "contact@cc-france.org"
@@ -37,7 +37,12 @@
         "./commands/load.md",
         "./commands/spawn.md",
         "./commands/task.md",
-        "./commands/workflow.md"
+        "./commands/workflow.md",
+        "./commands/benchmark.md",
+        "./commands/brainstorm.md",
+        "./commands/finalize.md",
+        "./commands/migrate.md",
+        "./commands/review.md"
       ],
       "agents": [
         "./agents/frontend.md",

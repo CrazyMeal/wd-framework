@@ -1,7 +1,7 @@
 {
   "name": "wd",
-  "version": "1.0.1",
-  "description": "Web development framework with 17 specialized commands, 5 expert agents, and MCP server integration for React, Next.js, Vue, and more",
+  "version": "1.1.0",
+  "description": "Web development framework with 22 specialized commands, 5 expert agents, and MCP server integration for React, Next.js, Vue, and more",
   "author": {
     "name": "Para CC-France",
     "email": "contact@cc-france.org",
