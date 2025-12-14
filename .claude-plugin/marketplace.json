@@ -8,9 +8,9 @@
   "plugins": [
     {
       "name": "wd",
-      "source": "./",
+      "source": "./plugins/wd",
       "description": "Intelligent web development framework with 22 specialized commands, 5 expert agents, 11 AI personas, and complete orchestration system for React, Next.js, Vue, and more",
-      "version": "2.0.1",
+      "version": "2.1.1",
       "author": {
         "name": "Para CC-France",
         "email": "contact@cc-france.org"
@@ -19,38 +19,7 @@
       "repository": "https://github.com/Para-FR/wd-framework",
       "license": "MIT",
       "keywords": ["webdev", "web-development", "react", "nextjs", "vue", "typescript", "frontend", "backend"],
-      "category": "Web Development",
-      "commands": [
-        "./commands/analyze.md",
-        "./commands/implement.md",
-        "./commands/build.md",
-        "./commands/improve.md",
-        "./commands/test.md",
-        "./commands/document.md",
-        "./commands/troubleshoot.md",
-        "./commands/cleanup.md",
-        "./commands/design.md",
-        "./commands/estimate.md",
-        "./commands/explain.md",
-        "./commands/git.md",
-        "./commands/index.md",
-        "./commands/load.md",
-        "./commands/spawn.md",
-        "./commands/task.md",
-        "./commands/workflow.md",
-        "./commands/benchmark.md",
-        "./commands/brainstorm.md",
-        "./commands/finalize.md",
-        "./commands/migrate.md",
-        "./commands/review.md"
-      ],
-      "agents": [
-        "./agents/frontend.md",
-        "./agents/backend.md",
-        "./agents/security.md",
-        "./agents/test.md",
-        "./agents/docs.md"
-      ]
+      "category": "Web Development"
     }
   ]
 }
